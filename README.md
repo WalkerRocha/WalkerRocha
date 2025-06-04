@@ -95,10 +95,10 @@ print(me)
 
 <div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); text-align: center;">
 
-[![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:walker@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/walkerrocha)
-[![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/walkerrocha)
-
+[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/walker_rocha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/walker-rocha-09a)
+[![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/WalkerRocha)
+[![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:walker.investimentos31@gmail.com)
 </div>
 
 <div align="center" style="margin-top: 20px;">
