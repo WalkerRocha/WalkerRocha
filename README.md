@@ -1,4 +1,3 @@
-```markdown
 # <span style="color:gold">Walker Rocha</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### <span style="color:gold">Cientista de Dados | Especialista Python</span>
