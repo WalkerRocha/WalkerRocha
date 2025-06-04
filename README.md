@@ -1,59 +1,88 @@
-#  **Walker Rocha**  
+Here's your refined GitHub profile in English with all your requested changes:
+
+```markdown
+# Walker Rocha
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFD700&width=500&lines=Data+Science+Enthusiast;Python+Developer;AI+Researcher;Problem+Solver)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFD700&width=500&lines=Data+Science+Student;Python+Developer;AI+Enthusiast;C%2FC%2B%2B+Programmer)
 
 </div>
 
-##  **Sobre Mim**
+## About Me
 
 <div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
 
-
-class DataScientist:
+```python
+class Developer:
     def __init__(self):
         self.name = "Walker Rocha"
-        self.education = "Ciência de Dados e IA - PUC Minas"
-        self.skills = ["Python", "Machine Learning", "Data Analysis"]
-        self.passion = "Transformar dados em insights valiosos"
+        self.age = 18
+        self.education = "Data Science and AI - PUC Minas"
+        self.company = "Assurance IT"
+        self.experience = ["Python", "C", "C++", "Data Analysis"]
+        self.quote = "Data is the world's most valuable resource when used correctly"
         
     def __str__(self):
-        return f"👋 Olá! Sou {self.name}, {self.passion}"
+        return f"Hello! I'm {self.name}, {self.age} years old\n💼 {self.company}\n🎓 {self.education}\n💡 '{self.quote}'"
 
-me = DataScientist()
+me = Developer()
 print(me)
 ```
 
 </div>
 
-## 🏆 **Certificações**
+## My Journey
 
 <div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
 
-| 📜 **Certificado** | 🏛️ **Instituição** | ⏳ **Carga Horária** | 📅 **Conclusão** | 🔗 **Link** |
-|--------------------|-------------------|---------------------|----------------|------------|
-| Introdução à IA | Asimov Academy | 5 horas | Mar/2025 | [Verificar]([https://asimov.academy](https://hub.asimov.academy/validar-certificado/d15af2c8-305a-4505-870b-7d40c7957a7d)) |
-| Python Básico | Asimov Academy | 15 horas | Mar/2025 | [Verificar]([https://asimov.academy](https://hub.asimov.academy/validar-certificado/aaea49e2-4935-4a4d-80e9-54c173558257)) |
-| Setup Python | Asimov Academy | 8 horas | Abr/2025 | [Verificar]([https://asimov.academy](https://hub.asimov.academy/validar-certificado/b0be08d6-843e-45f5-aaa6-c30afd068433)) |
-| Lógica de Programação | Asimov Academy | 3 horas | Mar/2025 | [Verificar]([https://asimov.academy](https://hub.asimov.academy/validar-certificado/eb0fb553-a8d2-4ff8-a42e-6fbe2d323439)) |
+I'm Walker, an 18-year-old **Data Science and Artificial Intelligence** student at PUC Minas. 
+
+Currently working at **Assurance IT**, where I apply my technical skills in real-world projects. My experience includes programming in **Python, C, and C++**, along with data analysis and machine learning fundamentals.
+
+I'm passionate about combining technical knowledge with creative problem-solving to develop innovative solutions that transform data into actionable insights.
+
+> "Data is the world's most valuable resource when used correctly"
 
 </div>
 
-## 💻 **Habilidades Técnicas**
+## Certifications
 
 <div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
 
+<details>
+<summary><b>📚 View Certifications (Click to expand)</b></summary>
+
+| Certification | Institution | Duration | Completed | Link |
+|---------------|-------------|----------|-----------|------|
+| Introduction to AI | Asimov Academy | 5 hours | Mar/2025 | [🔗 Verify](https://asimov.academy) |
+| Python Basics | Asimov Academy | 15 hours | Mar/2025 | [🔗 Verify](https://asimov.academy) |
+| Python Setup | Asimov Academy | 8 hours | Apr/2025 | [🔗 Verify](https://asimov.academy) |
+| Programming Logic | Asimov Academy | 3 hours | Mar/2025 | [🔗 Verify](https://asimov.academy) |
+
+</details>
+
+</div>
+
+## Technical Skills
+
+<div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
+
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
+![C](https://img.shields.io/badge/C-FFD700?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-FFD700?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FFD700?style=for-the-badge&logo=pandas&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=black)
-
-
+![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black)
 
 </div>
 
-## 📊 **Estatísticas GitHub**
+</div>
+
+## GitHub Statistics
 
 <div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
 
@@ -66,19 +95,7 @@ print(me)
 
 </div>
 
-## 🌍 **Idiomas**
-
-<div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
-
-| Idioma | Nível |
-|--------|-------|
-| 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês | Avançado |
-| 🇪🇸 Espanhol | Básico |
-
-</div>
-
-## 📬 **Contato**
+## Contact
 
 <div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); text-align: center;">
 
@@ -96,5 +113,6 @@ print(me)
 </div>
 
 <p align="center" style="color: #FFD700; font-size: 12px; margin-top: 20px;">
- "Transformando dados em oportunidades" 
+Transforming data into opportunities
 </p>
+```
