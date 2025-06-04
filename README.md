@@ -30,17 +30,15 @@ print(me)
 
 </div>
 
-## My Journey
+## Language Proficiency
 
 <div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
 
-I'm Walker, an 18-year-old **Data Science and Artificial Intelligence** student at PUC Minas. 
-
-Currently working at **Assurance IT**, where I apply my technical skills in real-world projects. My experience includes programming in **Python, C, and C++**, along with data analysis and machine learning fundamentals.
-
-I'm passionate about combining technical knowledge with creative problem-solving to develop innovative solutions that transform data into actionable insights.
-
-> "Data is the world's most valuable resource when used correctly"
+| Language | Level | Certification |
+|----------|-------|---------------|
+| Portuguese 🇧🇷 | Native | - |
+| English 🇺🇸 | Advanced | <a href="URL_TO_YOUR_ENGLISH_CERTIFICATE_PDF" target="_blank">View Certificate</a> |
+| Spanish 🇪🇸 | Basic | - |
 
 </div>
 
@@ -51,12 +49,12 @@ I'm passionate about combining technical knowledge with creative problem-solving
 <details>
 <summary><b>📚 View Certifications (Click to expand)</b></summary>
 
-| Certification | Institution | Duration | Completed | Link |
-|---------------|-------------|----------|-----------|------|
-| Introduction to AI | Asimov Academy | 5 hours | Mar/2025 | [🔗 Verify](https://asimov.academy) |
-| Python Basics | Asimov Academy | 15 hours | Mar/2025 | [🔗 Verify](https://asimov.academy) |
-| Python Setup | Asimov Academy | 8 hours | Apr/2025 | [🔗 Verify](https://asimov.academy) |
-| Programming Logic | Asimov Academy | 3 hours | Mar/2025 | [🔗 Verify](https://asimov.academy) |
+| Certification | Institution | Duration | Completed | Verification |
+|---------------|-------------|----------|-----------|--------------|
+| Introduction to AI | Asimov Academy | 5 hours | Mar/2025 | <a href="https://hub.asimov.academy/validar-certificado/d15af2c8-305a-4505-870b-7d40c7957a7d" target="_blank">Verify Certificate</a> |
+| Programming Logic | Asimov Academy | 3 hours | Mar/2025 | <a href="https://hub.asimov.academy/validar-certificado/eb0fb553-a8d2-4ff8-a42e-6fbe2d323439" target="_blank">Verify Certificate</a> |
+| Python Basics | Asimov Academy | 15 hours | Mar/2025 | <a href="https://hub.asimov.academy/validar-certificado/aaea49e2-4935-4a4d-80e9-54c173558257" target="_blank">Verify Certificate</a> |
+| Python Setup | Asimov Academy | 8 hours | Apr/2025 | <a href="https://hub.asimov.academy/validar-certificado/b0be08d6-843e-45f5-aaa6-c30afd068433" target="_blank">Verify Certificate</a> |
 
 </details>
 
