@@ -34,11 +34,11 @@ print(me)
 
 <div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
 
-| Language | Level | Certification |
-|----------|-------|---------------|
-| Portuguese 🇧🇷 | Native | - |
-| English 🇺🇸 | intermediate/Advanced | <a href="URL_TO_YOUR_ENGLISH_CERTIFICATE_PDF" target="_blank">View Certificate</a> |
-| Spanish 🇪🇸 | Basic | - |
+| Language | Level |
+|----------|-------|
+| Portuguese 🇧🇷 | Native |
+| English 🇺🇸 | intermediate/Advanced |
+| Spanish 🇪🇸 | Basic |
 
 </div>
 
