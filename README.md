@@ -1,6 +1,4 @@
-Here's your refined GitHub profile in English with all your requested changes:
 
-```markdown
 # Walker Rocha
 
 <div align="center">
