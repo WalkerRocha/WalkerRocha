@@ -37,7 +37,7 @@ print(me)
 | Language | Level | Certification |
 |----------|-------|---------------|
 | Portuguese 🇧🇷 | Native | - |
-| English 🇺🇸 | Advanced | <a href="URL_TO_YOUR_ENGLISH_CERTIFICATE_PDF" target="_blank">View Certificate</a> |
+| English 🇺🇸 | intermediate/Advanced | <a href="URL_TO_YOUR_ENGLISH_CERTIFICATE_PDF" target="_blank">View Certificate</a> |
 | Spanish 🇪🇸 | Basic | - |
 
 </div>
