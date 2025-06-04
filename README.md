@@ -30,7 +30,7 @@
 ## 💻 Stack Tecnológico
 
 **Linguagens de Programação:**
-```python
+``python
 {
     "Python": "🐍 Avançado (Fundamentos, Controle de Fluxo, Estruturas de Dados)",
     "C++": "🖥️ Intermediário",
