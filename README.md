@@ -55,6 +55,7 @@ print(me)
 | Programming Logic | Asimov Academy | 3 hours | Mar/2025 | <a href="https://hub.asimov.academy/validar-certificado/eb0fb553-a8d2-4ff8-a42e-6fbe2d323439" target="_blank">Verify Certificate</a> |
 | Python Basics | Asimov Academy | 15 hours | Mar/2025 | <a href="https://hub.asimov.academy/validar-certificado/aaea49e2-4935-4a4d-80e9-54c173558257" target="_blank">Verify Certificate</a> |
 | Python Setup | Asimov Academy | 8 hours | Apr/2025 | <a href="https://hub.asimov.academy/validar-certificado/b0be08d6-843e-45f5-aaa6-c30afd068433" target="_blank">Verify Certificate</a> |
+| Prompt Engineer | Asimov Academy | 5 hours | July/2025 | <a href="https://hub.asimov.academy/validar-certificado/9325bbbb-0751-4ace-814c-318d79e8346b" target="_blank">Verify Certificate</a> |
 
 </details>
 
