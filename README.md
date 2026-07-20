@@ -18,7 +18,7 @@ class Developer:
         self.age = 18
         self.education = "Data Science and AI - PUC Minas"
         self.company = "Assurance IT"
-        self.experience = ["Python", "C", "C++", "Data Analysis"]
+        self.experience = ["SQL", "Java", "Python", "C", "C++", "Data Analysis"]
         self.quote = "Data is the world's most valuable resource when used correctly"
         
     def __str__(self):
