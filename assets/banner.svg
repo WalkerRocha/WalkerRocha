@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Walker Rocha — Desenvolvimento, dados e automação</title>
+  <desc id="description">Capa escura com tipografia clara e uma rede de conexões em azul e laranja.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1325"/>
+      <stop offset="1" stop-color="#101D35"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F6AD55"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#243753" stroke-width="1" opacity=".45"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="50" y="47" width="43" height="5" rx="2.5" fill="#F6AD55"/>
+  <text x="108" y="53" fill="#97AFC9" font-size="17" font-family="Arial, Helvetica, sans-serif" letter-spacing="3">WALKER / PORTFÓLIO</text>
+  <text x="50" y="149" fill="#F5F8FF" font-size="62" font-weight="700" font-family="Arial, Helvetica, sans-serif">Walker Rocha</text>
+  <text x="53" y="199" fill="#70D6FA" font-size="23" font-family="Arial, Helvetica, sans-serif">Desenvolvimento  ·  Dados  ·  Automação</text>
+  <text x="53" y="252" fill="#9EB2CC" font-size="17" font-family="Arial, Helvetica, sans-serif">Da análise à aplicação: soluções para problemas reais.</text>
+  <g fill="none" stroke="url(#line)" stroke-width="2.5" opacity=".95">
+    <path d="M785 210 875 100 975 162 1085 72"/>
+    <path d="M785 210 918 239 975 162 1100 228"/>
+    <path d="M875 100 1010 57 1085 72 1100 228" opacity=".55"/>
+  </g>
+  <g fill="#101D35" stroke="#67D4F7" stroke-width="3">
+    <circle cx="785" cy="210" r="10"/>
+    <circle cx="875" cy="100" r="10"/>
+    <circle cx="918" cy="239" r="10"/>
+    <circle cx="975" cy="162" r="13" fill="#67D4F7"/>
+  </g>
+  <g fill="#101D35" stroke="#F6AD55" stroke-width="3">
+    <circle cx="1010" cy="57" r="8"/>
+    <circle cx="1085" cy="72" r="10"/>
+    <circle cx="1100" cy="228" r="11"/>
+  </g>
+  <rect x="728" y="42" width="148" height="30" rx="15" fill="#172C49"/>
+  <text x="747" y="63" fill="#9EDDF2" font-size="13" font-family="Arial, Helvetica, sans-serif">BUILD · LEARN · SHIP</text>
+</svg>
