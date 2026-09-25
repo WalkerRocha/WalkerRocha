@@ -1,114 +1,78 @@
-
-
-
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFD700&width=500&lines=Data+Science+Student;Python+Developer;AI+Enthusiast;C%2FC%2B%2B+Programmer)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:06B6D4&height=210&section=header&text=Walker%20Rocha&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Desenvolvimento%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Ci%C3%AAncia%20de%20Dados&descSize=19&descAlignY=60" width="100%" alt="Walker Rocha — Desenvolvimento, Automação e Ciência de Dados" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Desenvolvedor+J%C3%BAnior+na+Assurance+IT;Estudante+de+Ci%C3%AAncia+de+Dados+e+IA+na+PUC+Minas;Construindo+solu%C3%A7%C3%B5es+com+dados%2C+APIs+e+automa%C3%A7%C3%A3o" alt="Apresentação animada" />
+
+
+<a href="https://www.linkedin.com/in/walker-rocha-09a86525b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:walker.investimentos31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://github.com/WalkerRocha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+👋 Sobre mim
+Sou Walker Rocha, desenvolvedor júnior na Assurance IT e estudante de Ciência de Dados e Inteligência Artificial na PUC Minas. Trabalho com desenvolvimento de aplicações, integração de sistemas e automação de processos. Também desenvolvo projetos de análise de dados, bancos de dados e aprendizado de máquina.
+- 💼 Assurance IT: desenvolvimento, integrações de APIs, automações, testes e documentação técnica.
+- 🎓 PUC Minas: ciência de dados, inteligência artificial e projetos acadêmicos aplicados.
+- 🔎 Pesquisa: tratamento e unificação de bases para estudos sobre criminalidade no Brasil.
+- 📍 Belo Horizonte, MG.
+🧰 Tecnologias e ferramentas
+<div align="center">
+
+Linguagens e dados
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+Automações e desenvolvimento
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Lovable-111827?style=for-the-badge" alt="Lovable" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/APIs_REST-2563EB?style=for-the-badge" alt="APIs REST" />
 
 </div>
 
-## About Me
-
-<div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Walker Rocha"
-        self.age = 18
-        self.education = "Data Science and AI - PUC Minas"
-        self.company = "Assurance IT"
-        self.experience = ["SQL", "Java", "Python", "C", "C++", "Data Analysis"]
-        self.quote = "Data is the world's most valuable resource when used correctly"
-        
-    def __str__(self):
-        return f"Hello! I'm {self.name}, {self.age} years old\n💼 {self.company}\n🎓 {self.education}\n💡 '{self.quote}'"
-
-me = Developer()
-print(me)
-```
-
-</div>
-
-## Language Proficiency
-
-<div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
-
-| Language | Level |
-|----------|-------|
-| Portuguese 🇧🇷 | Native |
-| English 🇺🇸 | intermediate/Advanced |
-| Spanish 🇪🇸 | Basic |
-
-</div>
-
-## Certifications
-
-<div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
-
+💼 Experiência
+Desenvolvedor Júnior · Assurance IT
+Dezembro de 2024 – atualmente
+- Desenvolvimento e manutenção de soluções digitais e automações.
+- Integração de sistemas e consumo de APIs.
+- Trabalho com bancos de dados, testes e documentação técnica.
+- Uso de ferramentas de desenvolvimento e automação para transformar necessidades de negócio em funcionalidades.
+🚀 Projetos em destaque
+📊 Mercado de Ciência de Dados no Brasil
+Projeto acadêmico em equipe com dados do State of Data Brazil 2023. Abrange exploração e preparação de dados e aplicação de modelos de Árvore de Decisão e Random Forest para analisar trajetórias profissionais na área de dados.
+Ciência de Dados Análise Exploratória Machine Learning
+🗄️ Banco de Dados — Escola Help
+Projeto acadêmico em equipe para um sistema de gestão de aulas e matrículas. Inclui levantamento de requisitos, modelagem conceitual e lógica, diagramas e scripts SQL.
+SQL Modelagem de Dados Banco de Dados Relacional
 <details>
-<summary><b>📚 View Certifications (Click to expand)</b></summary>
+<summary><strong>📂 Outros trabalhos e estudos</strong></summary>
 
-| Certification | Institution | Duration | Completed | Verification |
-|---------------|-------------|----------|-----------|--------------|
-| Introduction to AI | Asimov Academy | 5 hours | Mar/2025 | <a href="https://hub.asimov.academy/validar-certificado/d15af2c8-305a-4505-870b-7d40c7957a7d" target="_blank">Verify Certificate</a> |
-| Programming Logic | Asimov Academy | 3 hours | Mar/2025 | <a href="https://hub.asimov.academy/validar-certificado/eb0fb553-a8d2-4ff8-a42e-6fbe2d323439" target="_blank">Verify Certificate</a> |
-| Python Basics | Asimov Academy | 15 hours | Mar/2025 | <a href="https://hub.asimov.academy/validar-certificado/aaea49e2-4935-4a4d-80e9-54c173558257" target="_blank">Verify Certificate</a> |
-| Python Setup | Asimov Academy | 8 hours | Apr/2025 | <a href="https://hub.asimov.academy/validar-certificado/b0be08d6-843e-45f5-aaa6-c30afd068433" target="_blank">Verify Certificate</a> |
-| Prompt Engineer | Asimov Academy | 5 hours | July/2025 | <a href="https://hub.asimov.academy/validar-certificado/9325bbbb-0751-4ace-814c-318d79e8346b" target="_blank">Verify Certificate</a> |
 
+- BI e ETL: construção de um fluxo de tratamento de dados com Python e SQL, Data Warehouse e visualização no Power BI.
+- Mineração de dados em saúde: estudo sobre perfil nutricional e DPOC, com técnicas de classificação e avaliação de modelos.
+- Pesquisa em criminalidade no Brasil: tratamento e unificação de bases para apoiar análises.
+- Atividades e projetos da PUC Minas: repositório de estudos da graduação.
 </details>
 
-</div>
-
-## Technical Skills
-
-<div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
-
+🎓 Formação
+Ciência de Dados e Inteligência Artificial — PUC Minas · Em andamento
+Interesses em engenharia de dados, análise exploratória, aprendizado de máquina, automação e desenvolvimento de produtos digitais.
+📈 GitHub
 <div align="center">
-  
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-FFD700?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-FFD700?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-FFD700?style=for-the-badge&logo=pandas&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black)
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=WalkerRocha&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Walker Rocha" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalkerRocha&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens dos repositórios públicos de Walker Rocha" />
+
+
+<img src="https://komarev.com/ghpvc/?username=WalkerRocha&style=flat-square&color=0EA5E9&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:06B6D4&height=110&section=footer" width="100%" alt="Rodapé decorativo" />
 
 </div>
-
-</div>
-
-## GitHub Statistics
-
-<div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2);">
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walkerrocha&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFF&icon_color=FFD700&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkerrocha&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFF&icon_color=FFD700&hide_border=true)
-
-</div>
-
-</div>
-
-## Contact
-
-<div style="background-color: #1A1A1A; padding: 20px; border-radius: 10px; border: 1px solid #FFD700; margin: 15px 0; box-shadow: 0 4px 8px rgba(255, 215, 0, 0.2); text-align: center;">
-
-[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/walker__rocha/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/walker-rocha-09a86525b)
-[![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/WalkerRocha)
-[![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:walker.investimentos31@gmail.com)
-
-<div align="center" style="margin-top: 20px;">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=walkerrocha&label=Profile%20Views&color=FFD700&style=flat)
-![Followers](https://img.shields.io/github/followers/walkerrocha?label=Followers&color=FFD700)
-
-</div>
-
-<p align="center" style="color: #FFD700; font-size: 12px; margin-top: 20px;">
-Transforming data into opportunities
-</p>
-
