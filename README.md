@@ -72,12 +72,16 @@ SQL Modelagem de Dados Banco de Dados Relacional
 🎓 Formação
 Ciência de Dados e Inteligência Artificial — PUC Minas · Em andamento
 Interesses em engenharia de dados, análise exploratória, aprendizado de máquina, automação e desenvolvimento de produtos digitais.
-📈 GitHub
+
+## 📈 GitHub
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WalkerRocha&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Walker Rocha" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalkerRocha&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens dos repositórios públicos de Walker Rocha" />
+<a href="https://github.com/WalkerRocha?tab=repositories"><img src="https://img.shields.io/badge/Explorar_meus_reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios" /></a>
+<a href="https://github.com/WalkerRocha/ppl-cd-pcd-sist-int-2025-1-regional-disparities-data-mkt"><img src="https://img.shields.io/badge/Projeto_de_Ci%C3%AAncia_de_Dados-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projeto de Ciência de Dados" /></a>
+<a href="https://github.com/WalkerRocha/Projeto_de_banco_de_dados-_ll_"><img src="https://img.shields.io/badge/Projeto_de_Banco_de_Dados-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Projeto de Banco de Dados" /></a>
 
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=WalkerRocha&style=flat-square&color=0EA5E9&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil" />
 
