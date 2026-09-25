@@ -12,10 +12,15 @@
 
 👋 Sobre mim
 Sou Walker Rocha, desenvolvedor júnior na Assurance IT e estudante de Ciência de Dados e Inteligência Artificial na PUC Minas. Trabalho com desenvolvimento de aplicações, integração de sistemas e automação de processos. Também desenvolvo projetos de análise de dados, bancos de dados e aprendizado de máquina.
+
 - 💼 Assurance IT: desenvolvimento, integrações de APIs, automações, testes e documentação técnica.
+
 - 🎓 PUC Minas: ciência de dados, inteligência artificial e projetos acadêmicos aplicados.
+
 - 🔎 Pesquisa: tratamento e unificação de bases para estudos sobre criminalidade no Brasil.
+
 - 📍 Belo Horizonte, MG.
+
 🧰 Tecnologias e ferramentas
 <div align="center">
 
@@ -44,10 +49,13 @@ Dezembro de 2024 – atualmente
 - Integração de sistemas e consumo de APIs.
 - Trabalho com bancos de dados, testes e documentação técnica.
 - Uso de ferramentas de desenvolvimento e automação para transformar necessidades de negócio em funcionalidades.
+
 🚀 Projetos em destaque
+
 📊 Mercado de Ciência de Dados no Brasil
 Projeto acadêmico em equipe com dados do State of Data Brazil 2023. Abrange exploração e preparação de dados e aplicação de modelos de Árvore de Decisão e Random Forest para analisar trajetórias profissionais na área de dados.
 Ciência de Dados Análise Exploratória Machine Learning
+
 🗄️ Banco de Dados — Escola Help
 Projeto acadêmico em equipe para um sistema de gestão de aulas e matrículas. Inclui levantamento de requisitos, modelagem conceitual e lógica, diagramas e scripts SQL.
 SQL Modelagem de Dados Banco de Dados Relacional
